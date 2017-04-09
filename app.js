@@ -6,7 +6,7 @@ import './css/main.css';
 render(
     <div>
         <br/>
-        <h2>Yeah!!</h2>
+        <h2>react-redux-template!!</h2>
     </div>,
     document.getElementById('app')
 );
